@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"github.com/fzzy/radix/extra/pool"
 	"github.com/fzzy/radix/redis"
-	"github.com/minotar/minecraft"
+	"github.com/LukeHandle/minecraft"
 	"image/png"
 	"strconv"
 	"strings"

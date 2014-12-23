@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/minotar/minecraft"
+	"github.com/LukeHandle/minecraft"
 )
 
 const (

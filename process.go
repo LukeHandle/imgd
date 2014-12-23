@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/disintegration/gift"
 	"github.com/disintegration/imaging"
-	"github.com/minotar/minecraft"
+	"github.com/LukeHandle/minecraft"
 	"image"
 	"image/color"
 	"image/draw"

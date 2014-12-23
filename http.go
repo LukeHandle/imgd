@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/gorilla/mux"
-	"github.com/minotar/minecraft"
+	"github.com/LukeHandle/minecraft"
 	"net/http"
 	"strconv"
 	"strings"
